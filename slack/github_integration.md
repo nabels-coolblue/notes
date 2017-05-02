@@ -12,21 +12,21 @@ The links in this tutorial assume you're working for the same company as I do, s
 
 2) Go to the app called GitHub.
 
-![GitHub app](http://i.imgur.com/lTPoIDD.png)
+<img src="http://i.imgur.com/lTPoIDD.png" data-canonical-src="http://i.imgur.com/lTPoIDD.png" width="700" />
 
 3) Click on the button `Add configuration`.
 
 4) Select the channel you would like to post to.
 
-![Add GitHub integration](http://i.imgur.com/le2KG1R.png)
+<img src="http://i.imgur.com/le2KG1R.png" data-canonical-src="http://i.imgur.com/le2KG1R.png" width="700" />
 
 5) Configure the specifics of the integration.
 
-![Specifics 1](http://i.imgur.com/n9w3ZtI.png)
-![Specifics 2](http://i.imgur.com/8tE9Xbx.png)
+<img src="http://i.imgur.com/n9w3ZtI.png" data-canonical-src="http://i.imgur.com/n9w3ZtI.png" width="700" />
+<img src="http://i.imgur.com/8tE9Xbx.png" data-canonical-src="http://i.imgur.com/8tE9Xbx.png" width="700" />
 
 6) Click on the button `Save integration`.
 
 ## Example output
 
-![Example output](http://i.imgur.com/eOXnQX3.png)
+<img src="http://i.imgur.com/eOXnQX3.png" data-canonical-src="http://i.imgur.com/eOXnQX3.png" width="700" />
