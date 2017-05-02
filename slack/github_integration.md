@@ -29,3 +29,4 @@ The links in this tutorial assume you're working for the same company as I do, s
 
 ## Example output
 
+![Example output](http://i.imgur.com/eOXnQX3.png)
